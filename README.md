@@ -1,4 +1,10 @@
-[`:Disp "Hello World!`](http://tibasicdev.wikidot.com/whytibasic)
+```
+:Disp "Hello World!
+```
+
+First learned to program on my TI-84 graphing calculator in math class - the Hello World
+program above is written in [TI-Basic](http://tibasicdev.wikidot.com/whytibasic).
+These days, I write software at Amazon in Last Mile Routing and Planning.
 
 <!---
 jackrein/jackrein is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
